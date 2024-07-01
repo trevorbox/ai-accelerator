@@ -12,7 +12,7 @@ metadata:
     enable-route: 'true'
     opendatahub.io/template-name: triton
 spec:
-  replicas: 1
+
   supportedModelFormats:
     - name: keras
       version: "2" # 2.6.0
